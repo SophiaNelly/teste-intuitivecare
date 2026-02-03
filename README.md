@@ -126,8 +126,9 @@ A execução das consultas em um banco de dados não foi realizada, pois o objet
 do teste é avaliar a capacidade de modelagem, escrita de consultas e raciocínio
 lógico. As consultas seguem SQL padrão, garantindo compatibilidade com diferentes
 SGBDs relacionais.
+```
 
-Considerações finais
+## Considerações Finais
 
 A solução foi desenvolvida com foco em simplicidade, clareza e organização,
 seguindo boas práticas de desenvolvimento e documentação.
