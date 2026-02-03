@@ -10,13 +10,13 @@ e capacidade de tomada de decisões técnicas.
 
 ## Estrutura do projeto
 
-TESTE-INTUITIVECARE/
-```├── data/ # Dados de entrada (CSV da ANS)
+```TESTE-INTUITIVECARE/
+├── data/ # Dados de entrada (CSV da ANS)
 ├── scripts/ # Scripts Python para processamento dos dados
 ├── output/ # Arquivos CSV gerados após o processamento
 ├── sql/ # Scripts SQL (modelagem e consultas)
-└── README.md```
-
+└── README.md
+```
 ## Tecnologias utilizadas
 
 - Python 3
