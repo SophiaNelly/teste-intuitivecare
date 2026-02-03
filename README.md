@@ -105,7 +105,7 @@ python scripts/explorar_dados.py
 python scripts/filtrar_despesas.py
 python scripts/limpar_e_agrupar.py
 Após a execução, os arquivos processados serão gerados na pasta output/.
-
+```
 ## SQL
 
 Foram elaborados scripts SQL para representar uma modelagem relacional simples
@@ -126,7 +126,6 @@ A execução das consultas em um banco de dados não foi realizada, pois o objet
 do teste é avaliar a capacidade de modelagem, escrita de consultas e raciocínio
 lógico. As consultas seguem SQL padrão, garantindo compatibilidade com diferentes
 SGBDs relacionais.
-```
 
 ## Considerações Finais
 
