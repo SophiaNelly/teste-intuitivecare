@@ -9,12 +9,13 @@ conhecimentos fundamentais de programação, organização de código, documenta
 e capacidade de tomada de decisões técnicas.
 
 ## Estrutura do projeto
+
 TESTE-INTUITIVECARE/
-├── data/ # Dados de entrada (CSV da ANS)
+```├── data/ # Dados de entrada (CSV da ANS)
 ├── scripts/ # Scripts Python para processamento dos dados
 ├── output/ # Arquivos CSV gerados após o processamento
 ├── sql/ # Scripts SQL (modelagem e consultas)
-└── README.md
+└── README.md```
 
 ## Tecnologias utilizadas
 
@@ -126,7 +127,7 @@ do teste é avaliar a capacidade de modelagem, escrita de consultas e raciocíni
 lógico. As consultas seguem SQL padrão, garantindo compatibilidade com diferentes
 SGBDs relacionais.
 
-## Considerações finais
+Considerações finais
 
 A solução foi desenvolvida com foco em simplicidade, clareza e organização,
 seguindo boas práticas de desenvolvimento e documentação.
